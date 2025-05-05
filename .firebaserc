@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "southpack-298b9"
+  },
+  "targets": {
+    "southpack-298b9": {
+      "hosting": {
+        "southpack": [
+          "southpack-298b9"
+        ]
+      }
+    }
+  }
+}
